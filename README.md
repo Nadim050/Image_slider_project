@@ -2,7 +2,8 @@
 
 <h2 align="center">Image Slider Project</h2>
 
- An image slider is a web component that displays multiple images in a single space.<br />Allowing users to navigate through them using controls or automatic transitions for a better visual experience.
+ An image slider is a web component that displays multiple images in a single space.<br />Allowing users to navigate through them using controls or automatic transitions for a better visual experience.</br>
+ 
 <a href="http://127.0.0.1:5500/index.html"><strong>➥ Live Demo</strong></a>
 
 </div>
